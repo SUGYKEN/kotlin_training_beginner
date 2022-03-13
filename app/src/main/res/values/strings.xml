@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday, Sam!</string>
+    <string name="signature_text">From Emma.</string>
+    <string name="icecream">icecream</string>
+    <string name="roll_button">Roll</string>
+    <string name="roll_num_text">1</string>
+</resources>
